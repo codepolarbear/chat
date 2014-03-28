@@ -1,0 +1,25 @@
+body{
+    font-family: arial, sans-serif;
+    font-size: 15px;
+    border:1px solid #cdcdcd;
+    margin:10px;
+    border-radius:5px;
+}
+input{
+    border:#cdcdcd 1px;
+    font-size:12px;
+    
+}
+#scroll{
+    position:relative;
+    width: 340px;
+    height: 270px;
+    overflow: auto;
+}
+
+#colorpicker{
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 10px;
+    border-left: 1px solid black;
+}
